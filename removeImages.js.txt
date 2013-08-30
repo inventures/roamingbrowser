@@ -1,0 +1,6 @@
+removeImages = function()
+{
+	alert("here");
+}
+
+removeImages();
