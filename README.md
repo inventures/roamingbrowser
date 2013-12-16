@@ -7,3 +7,7 @@ No guarantees made for the quality of the code. I built this project to learn iO
 It was in the App Store for a while but since our Apple developer subscription has expired, it is now open source. Feel free to fork, hack, re-publish and sell/give-away but please credit original author.
 
 Marcus Gill Greenwood / Inventures
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/inventures/roamingbrowser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
